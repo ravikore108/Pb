@@ -37,6 +37,9 @@ This repository documents my learning journey, projects, collaboration experienc
    Learning Python
    Interested in cloud computing
    Goal: contribute to open source
+   ## Projects
+
+- Personal Portfolio: A simple page to showcase my skills and work.
 
 
 
