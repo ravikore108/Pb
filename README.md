@@ -35,6 +35,7 @@ This repository documents my learning journey, projects, collaboration experienc
 
 **Thank you for visiting my Portfolio Journey!**# Pb
    Learning Python
+   Interested in cloud computing
 
 
 
